@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "productname" : "Sun Flower Oil",
+        "productprice" : "Rs.700/-"
+    },
+    {
+        "id" : 2,
+        "productname" : "Gibbon Mass Gainer",
+        "productprice" : "Rs.5500/-"
+    },
+    {
+        "id" : 3,
+        "productname" : "Magnus Chess-Mat set",
+        "productprice" : "Rs.990/-"
+    },
+    {
+        "id" : 4,
+        "productname" : "POCO M4 PRO",
+        "productprice" : "Rs.16999/-"
+    }
+]
